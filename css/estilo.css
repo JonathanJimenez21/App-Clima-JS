@@ -1,0 +1,20 @@
+Body {
+  text-align: center;
+  background-color: aquamarine;
+}
+input {
+  padding: 3px;
+  font-family: sans-serif;
+}
+button {
+  border: none;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+#datosciudad {
+  background-color: cornflowerblue;
+  font-family: sans-serif;
+  color: white;
+}
